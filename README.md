@@ -2,6 +2,10 @@
 this tool that converts text to an image that looks like handwriting😛
 
 </p>
+<br>
+<h2>USE THE TOOL 🔥🔫</h2>
+<p align="center" href="https://github.com/xmanispros/texthandwritting.git"> CLICK TO USE TOOL 🔥 ✅
+</p>
 
 ## 🌠 Output
 
