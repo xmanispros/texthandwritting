@@ -3,7 +3,7 @@ this tool that converts text to an image that looks like handwriting😛
 
 </p>
 <br>
-<a href="https://github.com/xmanispros/texthandwritting.git" allign="center"> ✅👉 CLICK HERE TO USE THE TOOL 🔥</a>
+<a href="https://xmanispros.github.io/texthandwritting/" allign="center"> ✅👉 CLICK HERE TO USE THE TOOL 🔥</a>
 
 ## 🌠 Output
 
